@@ -3,12 +3,12 @@ entries:
   djangob:
   - apiVersion: v2
     appVersion: latest
-    created: "2023-02-09T16:03:21.726238568+05:00"
+    created: "2023-02-09T16:09:52.520364433+05:00"
     description: A Helm chart for Kubernetes
     digest: 5204002703d6e320eeb035682a9cda6aafe54eb83fad0d56d90a2741bfd0a366
     name: djangob
     type: application
     urls:
-    - https://github.io/User121118/helm-lab/main/djangob/charts/djangob-0.1.0.tgz
+    - https://user121118.github.io/helm-lab/charts/djangob-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-09T16:03:21.725842309+05:00"
+generated: "2023-02-09T16:09:52.519941899+05:00"
